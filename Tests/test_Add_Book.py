@@ -3,7 +3,6 @@ import unittest
 from Pages.Addresses_Page import AddressPage
 from Pages.Home_Page import HomePage
 from faker import Faker
-from time import sleep
 
 class AddAddressTest(unittest.TestCase):
 

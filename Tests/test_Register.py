@@ -1,5 +1,4 @@
 from selenium import webdriver
-from time import sleep
 import unittest
 from Pages.Home_Page import HomePage
 from faker import Faker
