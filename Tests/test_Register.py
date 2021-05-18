@@ -3,9 +3,6 @@ from time import sleep
 import unittest
 from Pages.Home_Page import HomePage
 from faker import Faker
-from time import sleep
-
-
 
 class RegisterTest(unittest.TestCase):
 
